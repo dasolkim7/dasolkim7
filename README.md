@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @dasolkim7
 - 👀 I’m interested in LLM.
 - 🌱 I’m currently learning Multimodal LLM.
-<!-- - 💞️ I’m looking to collaborate on ... -->
+- 💞️ I’m looking to collaborate on AI research.
 - 📫 How to reach me soriel1015@gmail.com
-<!-- - 😄 Pronouns: ... -->
+- 😄 Pronouns: Inquistive
 - ⚡ Fun fact: i am a junior in college.
 
 <!---
